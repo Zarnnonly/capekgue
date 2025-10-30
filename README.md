@@ -10,7 +10,6 @@ Capek.py is a revolutionary Python framework that captures the essence of develo
 - **🪶 Ultra Lightweight**: Only 2 lines needed to run. That's it. No webpack, no node_modules, no Docker compose.
 - **⚡ Blazingly Fast**: Executes faster than your lecturer can say "minggu depan kuis"
 - **🎯 Zero Dependencies**: Pure Python. No pip install nightmare.
-- **💯 100% Relatable**: Speaks the universal language of developer burnout
 - **🔥 Production-Ready**: Already tested in production (my life)
 - **🌍 Cross-Platform**: Works on Windows, Mac, Linux, and your mental state
 
