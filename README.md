@@ -1,11 +1,6 @@
 # capekgue
 The most lightweight, production-ready framework for expressing burnout in modern software development
 
-[
-[
-[
-[
-
 ## 🌟 Overview
 
 Capek.py is a revolutionary Python framework that captures the essence of developer exhaustion in its purest form. Built with minimalism in mind, this framework achieves what bloated enterprise solutions fail to do: **genuine emotional expression in just 2 lines of executable code**.
